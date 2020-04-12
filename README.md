@@ -2,7 +2,7 @@
 Simple and easy implementation of VueJS inside Laravel as Vue SPA and Laravel backend.
 
 ## Read Written Complete Tutorial 
-https://codemeda.com/how-to-integrate-vuejs-in-laravel/
+https://techfickle.com/how-to-integrate-vue-js-with-laravel/
 
 ## Installation
 > Rename .env.example to .env <br>
