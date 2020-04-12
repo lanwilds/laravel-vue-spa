@@ -1,4 +1,4 @@
-# Laravel 5.8 with VueJS SPA integration
+# Laravel 7.0 with VueJS SPA integration
 Simple and easy implementation of VueJS inside Laravel as Vue SPA and Laravel backend.
 
 ## Read Written Complete Tutorial 
@@ -10,7 +10,7 @@ https://techfickle.com/how-to-integrate-vue-js-with-laravel/
 > npm run dev for compilation<br> and
 > php artisan serve to see start development server
 
-## Laravel 5.7
+## Laravel 7.0
 > King of PHP Frameworks<br>
 ## Vue JS 2.5
 > Front end JavaScript Framework<br>
